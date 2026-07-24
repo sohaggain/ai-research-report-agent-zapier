@@ -1,5 +1,3 @@
-# ai-research-report-agent-zapier
-An AI-powered Zapier automation that transforms Google Form submissions into structured research reports by generating research plans, performing deep analysis, creating executive summaries, formatting final reports, storing results in Google Sheets, and delivering reports via Gmail.
 #  AI Research & Report Agent
 
 > An AI-powered Zapier automation that transforms a simple research request into a fully structured, formatted report — planning the research approach, conducting deep analysis, summarizing key insights, formatting the final document, and delivering it via email and spreadsheet log, all through a chain of AI by Zapier steps.
